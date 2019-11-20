@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PicceriaPro1", "PicceriaPro1.csproj", "{552A9EB0-701F-44B8-938B-38F1698B3D47}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{552A9EB0-701F-44B8-938B-38F1698B3D47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{552A9EB0-701F-44B8-938B-38F1698B3D47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{552A9EB0-701F-44B8-938B-38F1698B3D47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{552A9EB0-701F-44B8-938B-38F1698B3D47}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8866547E-A486-4749-813F-C5E257CC9D26}
+	EndGlobalSection
+EndGlobal
