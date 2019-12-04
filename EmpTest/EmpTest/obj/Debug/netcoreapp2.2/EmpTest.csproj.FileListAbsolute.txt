@@ -1,0 +1,14 @@
+C:\Users\s17041\Desktop\EmpTest\EmpTest\bin\Debug\netcoreapp2.2\EmpTest.deps.json
+C:\Users\s17041\Desktop\EmpTest\EmpTest\bin\Debug\netcoreapp2.2\EmpTest.runtimeconfig.json
+C:\Users\s17041\Desktop\EmpTest\EmpTest\bin\Debug\netcoreapp2.2\EmpTest.runtimeconfig.dev.json
+C:\Users\s17041\Desktop\EmpTest\EmpTest\bin\Debug\netcoreapp2.2\EmpTest.dll
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.csprojAssemblyReference.cache
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.csproj.CoreCompileInputs.cache
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.RazorAssemblyInfo.cache
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.RazorAssemblyInfo.cs
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.AssemblyInfoInputs.cache
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.AssemblyInfo.cs
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.RazorTargetAssemblyInfo.cache
+C:\Users\s17041\Desktop\EmpTest\EmpTest\bin\Debug\netcoreapp2.2\EmpTest.pdb
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.dll
+C:\Users\s17041\Desktop\EmpTest\EmpTest\obj\Debug\netcoreapp2.2\EmpTest.pdb
