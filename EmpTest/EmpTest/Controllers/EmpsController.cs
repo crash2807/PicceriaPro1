@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using EmpTest.Models;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace EmpTest.Controllers
 {
@@ -19,9 +20,13 @@ namespace EmpTest.Controllers
         }
 
         [HttpGet]
-        public IActionResult GetEmps()
+        public IActionResult GetEmps(string order="ename")
         {
-            return Ok(_context.Emp.ToList());
+            if (order == "sal")
+            {
+                return Ok(_context.Emp.OrderBy(e=>e.Sal).ToList());
+            }
+            return Ok(_context.Emp.OrderBy(e => e.Ename).ToList());
         }
         [HttpGet("{id:int}")]
         public IActionResult GetEmp(int id)
@@ -32,6 +37,44 @@ namespace EmpTest.Controllers
                 return NotFound();
             }
             return Ok(emp);
+        }
+        [HttpPost]
+        public IActionResult Create(Emp newEmp)
+        {
+            _context.Emp.Add(newEmp);
+            _context.SaveChanges();
+
+            return StatusCode(201, newEmp);
+        }
+        [HttpPut("{empno:int}")]
+        public IActionResult Update(Emp updatedEmp)
+        {
+                           
+            if (_context.Emp.Count(e => e.Empno == updatedEmp.Empno) == 0)
+            {
+                return NotFound(); 
+            }
+
+            _context.Emp.Attach(updatedEmp);
+            _context.Entry(updatedEmp).State = EntityState.Modified;
+            _context.SaveChanges();
+
+            return Ok(updatedEmp);
+        }
+        [HttpDelete("{empno:int}")]
+        public IActionResult Delete(int empno)
+        {
+            var emp = _context.Emp.FirstOrDefault(e => e.Empno == empno);
+            if (emp == null)
+            {
+                return NotFound();
+            }
+
+            _context.Emp.Remove(emp);
+            _context.SaveChanges();
+
+            return Ok(emp);
+
         }
     }
 }

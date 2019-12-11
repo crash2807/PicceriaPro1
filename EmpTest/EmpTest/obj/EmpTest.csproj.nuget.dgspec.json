@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\s17041\\Desktop\\EmpTest\\EmpTest\\EmpTest.csproj": {}
+    "Z:\\PRO1\\EmpTest\\EmpTest\\EmpTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\s17041\\Desktop\\EmpTest\\EmpTest\\EmpTest.csproj": {
+    "Z:\\PRO1\\EmpTest\\EmpTest\\EmpTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\s17041\\Desktop\\EmpTest\\EmpTest\\EmpTest.csproj",
+        "projectUniqueName": "Z:\\PRO1\\EmpTest\\EmpTest\\EmpTest.csproj",
         "projectName": "EmpTest",
-        "projectPath": "C:\\Users\\s17041\\Desktop\\EmpTest\\EmpTest\\EmpTest.csproj",
+        "projectPath": "Z:\\PRO1\\EmpTest\\EmpTest\\EmpTest.csproj",
         "packagesPath": "C:\\Users\\s17041\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\s17041\\Desktop\\EmpTest\\EmpTest\\obj\\",
+        "outputPath": "Z:\\PRO1\\EmpTest\\EmpTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
