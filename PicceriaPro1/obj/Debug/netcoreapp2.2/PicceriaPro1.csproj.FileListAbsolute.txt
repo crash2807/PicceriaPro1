@@ -1,0 +1,14 @@
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\bin\Debug\netcoreapp2.2\PicceriaPro1.deps.json
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\bin\Debug\netcoreapp2.2\PicceriaPro1.runtimeconfig.json
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\bin\Debug\netcoreapp2.2\PicceriaPro1.runtimeconfig.dev.json
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\bin\Debug\netcoreapp2.2\PicceriaPro1.dll
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.csprojAssemblyReference.cache
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.csproj.CoreCompileInputs.cache
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.RazorAssemblyInfo.cache
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.RazorAssemblyInfo.cs
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.AssemblyInfoInputs.cache
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.AssemblyInfo.cs
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.RazorTargetAssemblyInfo.cache
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\bin\Debug\netcoreapp2.2\PicceriaPro1.pdb
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.dll
+C:\Users\s17041\Downloads\PicceriaPro1-master\PicceriaPro1-master\PicceriaPro1\obj\Debug\netcoreapp2.2\PicceriaPro1.pdb

@@ -12073,6 +12073,7 @@
     ".NETCoreApp,Version=v2.2": [
       "Microsoft.AspNetCore.App >= 2.2.0",
       "Microsoft.AspNetCore.Razor.Design >= 2.2.0",
+      "Microsoft.EntityFrameworkCore >= 2.2.0",
       "Microsoft.NETCore.App >= 2.2.0"
     ]
   },
@@ -12084,11 +12085,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\s17041\\Desktop\\PicceriaPro1\\PicceriaPro1.csproj",
+      "projectUniqueName": "C:\\Users\\s17041\\Downloads\\PicceriaPro1-master\\PicceriaPro1-master\\PicceriaPro1\\PicceriaPro1.csproj",
       "projectName": "PicceriaPro1",
-      "projectPath": "C:\\Users\\s17041\\Desktop\\PicceriaPro1\\PicceriaPro1.csproj",
+      "projectPath": "C:\\Users\\s17041\\Downloads\\PicceriaPro1-master\\PicceriaPro1-master\\PicceriaPro1\\PicceriaPro1.csproj",
       "packagesPath": "C:\\Users\\s17041\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\s17041\\Desktop\\PicceriaPro1\\obj\\",
+      "outputPath": "C:\\Users\\s17041\\Downloads\\PicceriaPro1-master\\PicceriaPro1-master\\PicceriaPro1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -12128,6 +12129,10 @@
           },
           "Microsoft.AspNetCore.Razor.Design": {
             "suppressParent": "All",
+            "target": "Package",
+            "version": "[2.2.0, )"
+          },
+          "Microsoft.EntityFrameworkCore": {
             "target": "Package",
             "version": "[2.2.0, )"
           },
